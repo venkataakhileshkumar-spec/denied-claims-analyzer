@@ -1,0 +1,53 @@
+claims.csv not found - generating sample data...
+
+Denied Claims Report (as of 2026-10-05)
+==================================================================
+Total claims        : 500
+Denied claims       : 79 (15.8%)
+Total billed        : $881,405.70
+Denied amount       : $152,262.11
+Preventable denials : $128,042.72 (84% of denied $)
+
+Denials by reason
+Code    Description                              Count       Amount
+-------------------------------------------------------------------
+CO-197  Prior authorization missing                 11    34,098.24
+CO-4    Modifier inconsistent with procedure        11    32,986.53
+CO-16   Missing or invalid claim information        21    25,925.57
+CO-50   Not medically necessary                     12    22,032.64
+CO-29   Timely filing limit exceeded                 9    17,766.84
+CO-18   Duplicate claim                             10    17,265.54
+CO-109  Not covered by this payer                    3     2,025.49
+CO-27   Coverage terminated                          2       161.26
+
+Denials by category
+  Administrative    40 claims   $ 60,957.95
+  Authorization     11 claims   $ 34,098.24
+  Coding            11 claims   $ 32,986.53
+  Clinical          12 claims   $ 22,032.64
+  Eligibility        5 claims   $  2,186.75
+
+Top providers by denial rate (min 5 claims)
+  Metro Imaging Center         35/79  =  44.3%   $47,439.68
+  Sunrise Clinic               16/81  =  19.8%   $15,559.42
+  Lakeside Family Care          9/82  =  11.0%   $49,544.01
+  Green Valley Ortho            7/83  =   8.4%   $11,770.70
+  City General Hospital         6/86  =   7.0%   $12,018.04
+
+Top procedure codes by denials
+  CPT 80053    15/76  =  19.7%
+  CPT 99214    14/71  =  19.7%
+  CPT 73721    12/63  =  19.0%
+  CPT 27447    11/61  =  18.0%
+  CPT 93000    11/65  =  16.9%
+
+Monthly denial trend
+  2026-04   11/63    17.5%  #########
+  2026-05   10/87    11.5%  ######
+  2026-06   16/89    18.0%  #########
+  2026-07   10/69    14.5%  #######
+  2026-08   14/94    14.9%  #######
+  2026-09   15/85    17.6%  #########
+  2026-10    3/13    23.1%  ############
+
+Prioritized action list saved to denied_claims_action_list.csv

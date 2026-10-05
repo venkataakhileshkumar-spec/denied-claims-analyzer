@@ -1,0 +1,80 @@
+claim_id,provider,service_date,cpt_code,billed_amount,denial_code,reason,category,preventable,recommended_action,priority
+C00093,Metro Imaging Center,2026-08-27,27447,15508.37,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,High
+C00323,Lakeside Family Care,2026-06-12,27447,15111.78,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,High
+C00132,Lakeside Family Care,2026-08-10,27447,14341.87,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,High
+C00137,Apex Cardiology,2026-06-09,27447,13484.09,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,High
+C00351,Metro Imaging Center,2026-09-14,27447,12380.6,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,High
+C00296,City General Hospital,2026-05-02,27447,11357.95,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,High
+C00224,Sunrise Clinic,2026-09-10,27447,10495.88,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,High
+C00476,Metro Imaging Center,2026-07-22,27447,10186.19,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,High
+C00407,Green Valley Ortho,2026-09-24,27447,9880.57,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,High
+C00221,Lakeside Family Care,2026-09-21,27447,9873.5,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,High
+C00250,Lakeside Family Care,2026-06-21,27447,9785.89,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,High
+C00021,Apex Cardiology,2026-08-27,73721,1150.98,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,High
+C00238,Green Valley Ortho,2026-04-09,73721,1097.87,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,High
+C00225,Metro Imaging Center,2026-10-02,73721,1085.21,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,High
+C00117,Metro Imaging Center,2026-09-22,73721,1060.05,CO-109,Not covered by this payer,Eligibility,No,Route claim to the correct payer,High
+C00091,Sunrise Clinic,2026-06-26,73721,984.06,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Medium
+C00348,Metro Imaging Center,2026-08-14,73721,947.78,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Medium
+C00102,Apex Cardiology,2026-06-29,73721,942.28,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Medium
+C00013,Sunrise Clinic,2026-04-16,73721,909.76,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Medium
+C00372,Metro Imaging Center,2026-08-26,73721,905.3,CO-109,Not covered by this payer,Eligibility,No,Route claim to the correct payer,Medium
+C00019,Sunrise Clinic,2026-05-30,73721,895.93,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Medium
+C00456,Sunrise Clinic,2026-06-02,73721,859.12,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Medium
+C00248,Metro Imaging Center,2026-07-07,73721,837.52,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Medium
+C00108,Sunrise Clinic,2026-06-05,71046,322.27,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Medium
+C00419,Metro Imaging Center,2026-08-10,71046,309.8,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Medium
+C00386,Metro Imaging Center,2026-05-31,71046,305.24,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Medium
+C00124,Metro Imaging Center,2026-04-20,71046,292.38,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00235,Metro Imaging Center,2026-08-10,71046,280.25,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Low
+C00155,Metro Imaging Center,2026-09-07,71046,255.3,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Low
+C00305,Green Valley Ortho,2026-04-14,71046,253.23,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Low
+C00377,Green Valley Ortho,2026-08-24,71046,251.95,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00161,Metro Imaging Center,2026-04-30,71046,241.87,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Low
+C00431,Metro Imaging Center,2026-10-02,99214,231.49,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Low
+C00367,City General Hospital,2026-08-09,99214,227.49,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Low
+C00227,Sunrise Clinic,2026-09-23,99214,225.32,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00182,Apex Cardiology,2026-07-17,71046,223.14,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00020,Metro Imaging Center,2026-05-17,99214,217.74,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Low
+C00068,Metro Imaging Center,2026-07-03,71046,211.52,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00145,Metro Imaging Center,2026-07-02,99214,204.06,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00018,Metro Imaging Center,2026-05-31,99214,198.98,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00498,Metro Imaging Center,2026-09-23,99214,194.18,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Low
+C00488,Metro Imaging Center,2026-04-24,99214,193.18,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00001,Metro Imaging Center,2026-09-22,99214,179.53,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Low
+C00489,City General Hospital,2026-06-21,99214,176.2,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00209,Metro Imaging Center,2026-04-30,99214,173.15,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00158,Green Valley Ortho,2026-06-05,99214,173.1,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00266,Metro Imaging Center,2026-09-08,99214,167.28,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00361,Sunrise Clinic,2026-07-06,99213,152.5,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Low
+C00002,Lakeside Family Care,2026-08-11,99213,150.58,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00228,Sunrise Clinic,2026-09-08,99214,149.25,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00439,Metro Imaging Center,2026-05-26,99213,145.56,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00075,Metro Imaging Center,2026-08-09,99213,132.49,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00180,Sunrise Clinic,2026-08-29,99213,118.12,CO-4,Modifier inconsistent with procedure,Coding,Yes,Correct coding/modifier and resubmit,Low
+C00389,Metro Imaging Center,2026-05-25,93000,101.28,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00197,City General Hospital,2026-04-15,93000,97.7,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00447,Sunrise Clinic,2026-09-07,93000,94.38,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00049,Sunrise Clinic,2026-09-29,93000,85.93,CO-27,Coverage terminated,Eligibility,No,Verify eligibility; bill patient or other payer,Low
+C00073,Lakeside Family Care,2026-07-13,93000,83.78,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00307,City General Hospital,2026-08-29,93000,83.37,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Low
+C00081,Sunrise Clinic,2026-06-12,93000,82.99,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00364,Lakeside Family Care,2026-04-20,93000,81.65,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00052,Metro Imaging Center,2026-09-01,93000,80.76,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Low
+C00246,City General Hospital,2026-04-25,80053,75.33,CO-27,Coverage terminated,Eligibility,No,Verify eligibility; bill patient or other payer,Low
+C00336,Metro Imaging Center,2026-07-11,80053,70.64,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Low
+C00054,Sunrise Clinic,2026-05-27,93000,70.07,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00208,Apex Cardiology,2026-08-09,80053,69.63,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Low
+C00310,Metro Imaging Center,2026-07-22,93000,66.11,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00202,Sunrise Clinic,2026-09-07,80053,62.2,CO-18,Duplicate claim,Administrative,Yes,Check original claim status; do not resubmit,Low
+C00232,Green Valley Ortho,2026-06-07,80053,61.1,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00159,Apex Cardiology,2026-06-30,80053,60.14,CO-109,Not covered by this payer,Eligibility,No,Route claim to the correct payer,Low
+C00403,Metro Imaging Center,2026-05-14,80053,60.02,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00295,Lakeside Family Care,2026-05-08,80053,58.35,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00115,Metro Imaging Center,2026-06-25,80053,58.15,CO-50,Not medically necessary,Clinical,No,Appeal with clinical documentation,Low
+C00252,Lakeside Family Care,2026-06-15,80053,56.61,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00255,Metro Imaging Center,2026-04-08,80053,54.44,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00373,Metro Imaging Center,2026-06-01,80053,53.03,CO-197,Prior authorization missing,Authorization,Yes,Request retro-authorization or appeal,Low
+C00189,Green Valley Ortho,2026-10-01,80053,52.88,CO-29,Timely filing limit exceeded,Administrative,Yes,Appeal with proof of timely filing,Low
+C00327,Sunrise Clinic,2026-06-06,80053,51.64,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
+C00101,Metro Imaging Center,2026-07-29,80053,50.23,CO-16,Missing or invalid claim information,Administrative,Yes,Fix the missing data and resubmit,Low
